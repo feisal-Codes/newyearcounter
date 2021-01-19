@@ -9,7 +9,7 @@ let p4=document.querySelector(".p4");
 
 
 function counter(){
-let newyear="1 Jan 2021";
+let newyear="1 Jan 2022";
 let newyeardate=new Date(newyear);
 let cur_date= new Date();
 let totalseconds=(newyeardate-cur_date)/1000;
